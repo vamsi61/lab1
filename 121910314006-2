@@ -1,0 +1,11 @@
+#area of right angle triangle
+l = int(input())
+b = int(input())
+area = (l*b)/2
+print("area of right angle triangle is:")
+print(area)
+
+output
+6
+3
+area = 9
